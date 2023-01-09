@@ -53,6 +53,7 @@
             <div class="input">
                 <label>Email</label>
                 <input type = "email" name = "email" placeholder = "Enter Your Email" required>
+
             </div>
             <div class ="input">
                 <label>Phone</label>
